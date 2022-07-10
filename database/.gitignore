@@ -1,0 +1,2 @@
+*.sqlite*
+seeders/data/country_city_data.sql
